@@ -6,7 +6,9 @@ This portfolio website serves as an interactive resume, featuring details about 
 
 ## Features 
  About Me – A section highlighting my background and expertise.
+ 
  services – Offering expert Web Design, software development, related services to create engaging digital experiences and customer centric solutions.
+ 
  projects – Showcasing a collection of my best projects, highlighting my skills in web development.
 
 ## Technologies Used 
